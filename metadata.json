@@ -1,0 +1,6 @@
+{
+  "name": "ProspectPilot",
+  "description": "An Agency-in-a-box tool that scrapes local US leads, AI-audits their websites via screenshots, extracts contact emails, and drafts hyper-personalized cold emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
